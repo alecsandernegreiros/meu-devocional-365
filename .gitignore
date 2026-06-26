@@ -1,0 +1,38 @@
+# Dependencias
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Variaveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache e temporarios
+.npm-cache/
+.cache/
+.temp/
+.tmp/
+tmp/
+*.tmp
+*.temp
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Netlify local
+.netlify/
+.netlify-appdata/
+.netlify-localappdata/
+.config/
