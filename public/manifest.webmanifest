@@ -1,0 +1,18 @@
+{
+  "name": "Meu Devocional 365",
+  "short_name": "Devocional 365",
+  "description": "Propósitos, Orações e Respostas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171914",
+  "theme_color": "#171914",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
